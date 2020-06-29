@@ -6294,6 +6294,8 @@ button.bg-dark:focus {
   border-radius: 50% !important;
 }
 
+
+
 .rounded-pill {
   border-radius: 50rem !important;
 }
@@ -9767,6 +9769,8 @@ button.bg-dark:focus {
 #project-pic {
   height: 300px;
 }
+
+
 .text-capitalize {
   text-transform: capitalize !important;
 }
