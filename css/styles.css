@@ -10385,11 +10385,17 @@ header.masthead .masthead-heading {
 .timeline-list {
   display: flex;
   flex-direction: row;
-  width: 65vw;
-  justify-content: space-between;
+  width: 95vw;
+  /* justify-content: space-between; */
   flex-wrap: wrap;
   margin: auto;
   margin-top: 10%;
+  font-size: 45px;
+  font-family: fantasy;
+}
+.icon-container {
+  height: 150px;
+  width: 250px;
 }
 
 .timeline-inverted {
@@ -10581,3 +10587,23 @@ section#contact form#contactForm :-ms-input-placeholder {
   font-size: 10px;
   font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
+
+.modal-links {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  text-align: center;
+  margin: auto;
+  margin-bottom: 0;
+  width: 150px;
+}
+
+.colored {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* margin-right: 20px; */
+  margin:auto;
+ 
+}
+
