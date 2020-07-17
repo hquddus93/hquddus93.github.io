@@ -10397,6 +10397,11 @@ header.masthead .masthead-heading {
   width: 250px;
 }
 
+.icon-container p {
+    font-family: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+
+}
+
 .timeline-inverted {
   list-style: none;
 }
